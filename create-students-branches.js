@@ -2,12 +2,43 @@
 // Configuration — edit these two constants before running
 // =============================================================================
 
-const REPO = "owner/repo-name"; // GitHub repo in "owner/repo" format or full URL
+const REPO = "ucu-fit-dwym/prueba-2-2026-sem1-vespertino"; // GitHub repo in "owner/repo" format or full URL
 
 const BASE_BRANCH = "main"; // branch to fork from
 
-const STUDENTS = ["Surname, Name"];
-
+const STUDENTS = [
+  "Aires, Joaquín",
+  "Aires, Jhon",
+  "Antelo, Pilar",
+  "Bauzá, Joaquín",
+  "Bentancor, Christopher",
+  "Cáceres, Joaquín",
+  "Cordero, Lucas",
+  "Crampet, Dalton",
+  "Curbelo, Jesús",
+  "Da Costa, Matías",
+  "Dos Santos, Jesús",
+  "Fagundez, Rodrigo",
+  "Fernandez, Natanael",
+  "Fonseca, Sebastian",
+  "García, Juan",
+  "Garrido, Tiago",
+  "Gómez, Cinthia",
+  "Heredia, Felipe",
+  "Leites, Santiago",
+  "Martinez, Martin",
+  "Martínez, Ignacio",
+  "Mora, Jessica",
+  "Morales, Victoria",
+  "Palladino, Agustín",
+  "Ramos, Daniel",
+  "Ribas, Lucas",
+  "Schenck, Anabelle",
+  "Schneider, Stephan",
+  "Umpierrez, Santiago",
+  "Vázquez, Luis",
+  "Zas, Felipe",
+];
 // =============================================================================
 // Script — no need to edit below this line
 // =============================================================================
